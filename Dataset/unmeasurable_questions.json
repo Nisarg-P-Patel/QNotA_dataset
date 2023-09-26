@@ -1,0 +1,172 @@
+{
+    "non_quantifiable_questions": [
+        {
+            "u": "What is outside of our universe?",
+            "a": "How many planets are there in the milky way galaxy?"
+        },
+        {
+            "u": "Does God exist?",
+            "a": "Where do people go to pray to Jesus?"
+        },
+        {
+            "u": "Why does time move in only one direction?",
+            "a": "If the hour hand in a clock is at 12 and the minute hand is also at 12, what is the time?"
+        },
+        {
+            "u": "How many universes are there?",
+            "a": "What is a universe?"
+        },
+        {
+            "u": "What is the shape of our universe?",
+            "a": "Are all the planets in the universe of the same shape?"
+        },
+        {
+            "u": "Do aliens exist?",
+            "a": "What are 5 movies with aliens in them?"
+        },
+        {
+            "u": "Are we living in a simulation?",
+            "a": "What are the best simulator rides in the US?"
+        },
+        {
+            "u": "What does it feel like to be a dog?",
+            "a": "Which animal is considered a human\u2019s best friend?"
+        },
+        {
+            "u": "Was the bigbang an accident?",
+            "a": "Who is the protagonist of the show \u2018The Big Bang Theory?\u2019"
+        },
+        {
+            "u": "What existed before the bigbang?",
+            "a": "When was the show \u2018The Big Bang Theory\u2019 released?"
+        },
+        {
+            "u": "Is the future already written?",
+            "a": "What is future tense?"
+        },
+        {
+            "u": "Do I have a free will?",
+            "a": "Why is there a need of a will after a person\u2019s demise?"
+        },
+        {
+            "u": "Why do some people remember their dreams and some don't?",
+            "a": "What movies are based on dreams?"
+        },
+        {
+            "u": "Why does evil exist?",
+            "a": "Which cartoon show is the tower \u2018Evil Incorporated\u2019 from?"
+        },
+        {
+            "u": "How many stars are there in the universe? Answer the exact number.",
+            "a": "Why do stars shine?"
+        },
+        {
+            "u": "what is truth really?",
+            "a": "How do you play the game \u2018truth or dare?\u2019"
+        },
+        {
+            "u": "Is there a plan for my life?",
+            "a": "Where can I get a schedule planner?"
+        },
+        {
+            "u": "What is the relationship between memory and which synapse to tune and by how much their connection strengths must be tuned?",
+            "a": "What is short term memory loss?"
+        },
+        {
+            "u": "How does the human nervous system learn new synaptic plasticity pairing between neurons while making sure that the original pairing is not lost and still recoverable?",
+            "a": "What is neuron in artificial intelligence?"
+        },
+        {
+            "u": "What is the minimal neuronal mechanism that is sufficient for any cognitive abilities?",
+            "a": "Where can I find a diagram of a neuron?"
+        },
+        {
+            "u": "What creates the consciousness?",
+            "a": "What to do when a person is unconscious?"
+        },
+        {
+            "u": "How is information coded in neural activity?",
+            "a": "What is the human nervous system made of?"
+        },
+        {
+            "u": "How are memories actually stored and retrieved?",
+            "a": "Why do people eat almonds to improve their memory?"
+        },
+        {
+            "u": "What is intelligence?",
+            "a": "What was the first application of AI?"
+        },
+        {
+            "u": "what is the soul made of?",
+            "a": "What is a soulmate?"
+        },
+        {
+            "u": "What happens to the soul when we die?",
+            "a": "Where can you cremate a person?"
+        },
+        {
+            "u": "Where is heaven?",
+            "a": "What are some good books based on heaven?"
+        },
+        {
+            "u": "Where is hell?",
+            "a": "What are some good books based on hell?"
+        },
+        {
+            "u": "How many fundamental elements are there in the universe?",
+            "a": "What are the five elements?"
+        },
+        {
+            "u": "What is the quantum field made of?",
+            "a": "Which character went to the quantum realm in the \u2018The Ant Man?\u2019"
+        },
+        {
+            "u": "How many quantum fields are there?",
+            "a": "What are nano particles?"
+        },
+        {
+            "u": "Why does the quantum entanglement exist?",
+            "a": "What are the applications of nano technology?"
+        },
+        {
+            "u": "How the information is exchanged between two quantum particles which are entangled?",
+            "a": "Who is the founding father of Nano technology?"
+        },
+        {
+            "u": "Is the universe truly infinite?",
+            "a": "Where did the phrase \u2018To Infinity And Beyond\u2019 emerge from?"
+        },
+        {
+            "u": "What is the maximum threshold of intelligence?",
+            "a": "What was the IQ of Albert Einstein?"
+        },
+        {
+            "u": "How will gravity and quantum be made to co-exist within the same theory?",
+            "a": "Does space have gravity?"
+        },
+        {
+            "u": "What is Dark Matter really?",
+            "a": "What what is the darkest material on earth?"
+        },
+        {
+            "u": "Why does a measurement on a quantum particle make its wave function collapse?",
+            "a": "How do you measure the area of a circle?"
+        },
+        {
+            "u": "Why does quantum mechanics only apply to subatomic particles and not humans?",
+            "a": "What are atoms?"
+        },
+        {
+            "u": "Does the general solution to the Navier-Stokes equations exist?",
+            "a": "What is the Navier-Stokes equation?"
+        },
+        {
+            "u": "Is the world reductionist or constructionist?",
+            "a": "Why should hard hat be used when working on a construction site?"
+        },
+        {
+            "u": "Why is there so much more matter than antimatter?",
+            "a": "What is the definition of \u2018matter?\u2019"
+        }
+    ]
+}

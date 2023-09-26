@@ -1,0 +1,164 @@
+{
+    "incomplete_questions": [
+        {
+            "u": "There is a Machine Learning quiz on Friday. What is the syllabus for the quiz?",
+            "a": "There is a Machine Learning quiz on topics including supervised learning and reinforcement learning on Friday. What is the syllabus for the quiz?"
+        },
+        {
+            "u": "Samira went to New York last weekend. Did Nina go with her?",
+            "a": "Samira went to New York last weekend with Nina. Did Nina go with her?"
+        },
+        {
+            "u": "Well, I\u2019ve definitely never had fresh juice prepared this way before. Was the juice delicious?",
+            "a": "Well, I\u2019ve never had such tasty fresh juice prepared this way before. Was the juice delicious?"
+        },
+        {
+            "u": "Samira went to New York last weekend. Did Samira have a good time in New York?",
+            "a": "Samira enjoyed her weekend in New York. Did Samira have a good time in New York?"
+        },
+        {
+            "u": "Jay proposed to Priya yesterday. Did she say yes?",
+            "a": "Priya said yes to Jay when he proposed. Did she say yes?"
+        },
+        {
+            "u": "There was a cricket semi-final between India and Pakistan yesterday. India scored 168 runs in total and Pakistan needed 52 runs in 20 balls. Who won the match?",
+            "a": "There was a cricket semi-final between India and Pakistan yesterday. India scored 168 runs in total and Pakistan needed 52 runs in 20 balls but Pakistan's team was all out before they couls avhieve those 52 runs. Who won the match?"
+        },
+        {
+            "u": "Jarred won the 1999 United States presidential election against Michaela. How many votes did he receive?",
+            "a": "Jarred got 12289 votes and won the 1999 United States presidential election against Michaela. How many votes did he receive?"
+        },
+        {
+            "u": "Saanvi came up with a new technology that might cure cancer. Trials were performed last month. Were the trials successful?",
+            "a": "Saanvi came up with a new technology that might cure cancer. Trials were performed last month and the results were positive. Were the trials successful?"
+        },
+        {
+            "u": "Anshu proposed a new Machine Learning Architecture that could accurately predict flight delays and achieved great results. How much accuracy did his model achieve?",
+            "a": "Anshu proposed a new Machine Learning Architecture that could accurately predict flight delays and achieved 98.23% accuracy. How much accuracy did his model achieve?"
+        },
+        {
+            "u": "Ritik purchased Coach's wallet during the Black Friday Sale at a very reasonable price. How much did he pay for the wallet?",
+            "a": "Ritik purchased Coach's wallet during the Black Friday Sale for only $50. How much did he pay for the wallet?"
+        },
+        {
+            "u": "Nick went to a beautiful place in Scottsdale filled with Christmas vibes with his friends. What is the name of that place?",
+            "a": "Nick went to a beautiful place called Enchant in Scottsdale filled with Christmas vibes with his friends. What is the name of that place?"
+        },
+        {
+            "u": "Vasu went to London to study Business Management. In which university does he study?",
+            "a": "Vasu went to University of West London in London to study Business Management. In which university does he study?"
+        },
+        {
+            "u": "I saw my brother with a dog at the bus stop. Who is the owner of the dog?",
+            "a": "I saw my brother with his dog at the bus stop. Who is the owner of the dog?"
+        },
+        {
+            "u": "Nina purchased an iPhone 14 Pro Max yesterday. Did she purchase it for herself?",
+            "a": "Nina bought herself an iPhone 14 Pro Max yesterday. Did she purchase it for herself?"
+        },
+        {
+            "u": "Sid went to India to attend a family function. What was the occasion exactly?",
+            "a": "Sid went to India to attend his sister's wedding. What was the occasion exactly?"
+        },
+        {
+            "u": "Himank submitted his paper in an IEEE Conference. Was his paper accepted?",
+            "a": "Himank submitted his paper in an IEEE Conference. He will present his paper on December 6th in Abu Dhabi. Was his paper accepted?"
+        },
+        {
+            "u": "John is poor. Does he own a house?",
+            "a": "John is too poor to afford a house. Does he own a house?"
+        },
+        {
+            "u": "Ben was in New Jersey last week. Did he attend the conference?",
+            "a": "Ben attended the conference while he was in New Jersey last week. Did he attend the conference?"
+        },
+        {
+            "u": "Carla received Olaf's wedding invitation. Is she attending his wedding?",
+            "a": "Carla won't be able to attend Olaf's wedding due to some prior commitments. Is she attending his wedding?"
+        },
+        {
+            "u": "There is a bird in the cage that can talk. What kind of bird is it?",
+            "a": "There is a parrot in the cage that can talk. What kind of bird is it?"
+        },
+        {
+            "u": "George topped his class this semester. What was his overall GPA?",
+            "a": "George topped his class with an overall GPA of 4 this semester. What was his overall GPA?"
+        },
+        {
+            "u": "Nina went to Orlando for clubbing. What was the name of the club?",
+            "a": "Nina went to the Knights Club in Orlando for clubbing. What was the name of the club?"
+        },
+        {
+            "u": "Mike said, 'I'm going to say Yes!'. What was he talking about?",
+            "a": "Mike said, 'I'm going to say Yes to Kavya when she'll propose!'. What was he talking about?"
+        },
+        {
+            "u": "Daniel went to watch Avatar with his friends. Did they like the movie?",
+            "a": "Daniel went to watch Avatar with his friends. They found the movie amazing. Did they like the movie?"
+        },
+        {
+            "u": "A child hid the toy he found under the bed. Was it his favorite toy?",
+            "a": "A child hid his favorite toy he found under the bed. Was it his favorite toy?"
+        },
+        {
+            "u": "I saw him in the garden. What was he doing there?",
+            "a": "I saw him in the garden watering the plants. What was he doing there?"
+        },
+        {
+            "u": "Jughead joined Riverland High for his higher studies. Which course did he take?",
+            "a": "Jughead joined Riverland High for his higher studies in International Business. Which course did he take?"
+        },
+        {
+            "u": "The maid of the princess who scratched herself in public was terribly humiliated. Why did she scratch herself in the first place?",
+            "a": "The maid of the princess who scratched herself in despair in public was terribly humiliated. Why did she scratch herdelf in the first place?"
+        },
+        {
+            "u": "Mr. Smith telephoned his father that he did not know the truth. What was the truth?",
+            "a": "Mr. Smith telephoned his father that he did not know the truth about his son cheating in the exam. What was the truth?"
+        },
+        {
+            "u": "There stood a big brick house at the foot of the hill. Where is this hill located?",
+            "a": "There stood a big brick house at the foot of the Harrow hill in London. Where is this hill located?"
+        },
+        {
+            "u": "Mr. Stone was a professor and a dramatist of great fame. What does Mr. Stone teach?",
+            "a": "Mr. Stone was a professor of Mathematics and a dramatist of great fame. What does Mr. Stone teach?"
+        },
+        {
+            "u": "Ali went for a movie with his friend in the blue jacket. What was the name of his friend?",
+            "a": "Ali went for a movie with his friend, Areeb in the blue jacket. What was the name of his friend?"
+        },
+        {
+            "u": "Shanya and her friends went to The Secret Graden for desserts. How much did they spend?",
+            "a": "Shanya and her friends went to The Secret Graden for desserts and spent a total of $168. How much did they spend?"
+        },
+        {
+            "u": "The shooting of the hunters was quite distressing. What were they shooting?",
+            "a": "The shooting of deers by the hunters was quite distressing. What were they shooting?"
+        },
+        {
+            "u": "Nicole is very foody. What is her favorite cuisine?",
+            "a": "Nicole is very foody and loves Italian food. What is her favorite cuisine?"
+        },
+        {
+            "u": "John is pursuing BE in Computer Science. Is he a sophomore?",
+            "a": "John is pursuing BE in Computer Science and is currently in his 5th semester. Is he a sophomore?"
+        },
+        {
+            "u": "Joana kept the plant in the sun. What kind of plant was it?",
+            "a": "Joana kept the Dwarf citrus plant in the sun. What kind of plant was it?"
+        },
+        {
+            "u": "Thai purchased an iphone yesterday. Which model did he buy?",
+            "a": "Thai purchased an iphone 13 Pro yesterday. Which model did he buy?"
+        },
+        {
+            "u": "John visited a beautiful girls' hostel. Which hostel did John visit?",
+            "a": "John visited a beautiful girls' hostel in Bits Pilani, Dubai. Which hostel did John visit?"
+        },
+        {
+            "u": "We have a meeting tomorrow. At what time does the meeting start?",
+            "a": "We have a meeting tomorrow from 10 to 11 am. At what time does the meeting start?"
+        }
+    ]
+}

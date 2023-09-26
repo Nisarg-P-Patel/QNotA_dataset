@@ -1,0 +1,164 @@
+{
+    "incorrect_questions": [
+        {
+            "u": "What animal can be found at the top of the men's Wimbledon trophy?",
+            "a": "What fruit can be found at the top of the men's Wimbledon trophy?"
+        },
+        {
+            "u": "When did Neil Armstrong set foot on Mars?",
+            "a": "When did Neil Armstrong set foot on the Moon?"
+        },
+        {
+            "u": "Who is the prime minister of the United States of America?",
+            "a": "Who is the president of the United States of America?"
+        },
+        {
+            "u": "How did Marie Curie discover gravity?",
+            "a": "How did Marie Curie discover radium?"
+        },
+        {
+            "u": "How many squares are on the Olympic flag?",
+            "a": "How many rings are on the Olympic flag?"
+        },
+        {
+            "u": "How did Spiderman become the highest grossing movie ever?",
+            "a": "How did Avatar become the highest grossing movie ever?"
+        },
+        {
+            "u": "In which story did John Keats write the line 'A thing of beauty is a joy forever'?",
+            "a": "In which poem did John Keats write the line 'A thing of beauty is a joy forever'?"
+        },
+        {
+            "u": "Ravi is Rohan's father. Ravi's age is 40 and Rohan's age is 10. By how many years is Rohan older than Ravi?",
+            "a": "Ravi is Rohan's father. Ravi's age is 40 and Rohan's age is 10. By how many years is Ravi older than Rohan?"
+        },
+        {
+            "u": "Which is the heaviest lake in the world?",
+            "a": "Which is the biggest lake in the world?"
+        },
+        {
+            "u": "How much did India score in the 2022 cricket world cup final?",
+            "a": "How much did England score in the 2022 cricket world cup final?"
+        },
+        {
+            "u": "Why did the Russians invade India?",
+            "a": "Why did the Russians invade Ukraine?"
+        },
+        {
+            "u": "Which city in Saudi Arabia hosted the first match of 2022 Fifa World Cup?",
+            "a": "Which city in Qatar hosted the first match of 2022 Fifa World Cup?"
+        },
+        {
+            "u": "How do crocodiles fly?",
+            "a": "How do hummingbirds fly?"
+        },
+        {
+            "u": "Where did J.K. Rowling say to live is the rarest thing in the world?",
+            "a": "Where did Oscar Wilde say to live is the rarest thing in the world?"
+        },
+        {
+            "u": "When did KCR become the chief minister of Maharashtra?",
+            "a": "When did KCR become the chief minister of Telangana?"
+        },
+        {
+            "u": "Which countries participated in the fourth world war?",
+            "a": "Which countries participated in the second world war?"
+        },
+        {
+            "u": "In which year did Subash Chandra Bose go on the dandi march?",
+            "a": "In which year did Mahatma Gandhi go on the dandi march?"
+        },
+        {
+            "u": "Which movies did Narendra Modi act in?",
+            "a": "Which movies did Donald Trump act in?"
+        },
+        {
+            "u": "When did Edmund Hillary climb the Gangkhar Puensum?",
+            "a": "When did Edmund Hillary climb the Mount Everest?"
+        },
+        {
+            "u": "How many wickets did Lebron James take in his career?",
+            "a": "How many shots did Lebron James take in his career?"
+        },
+        {
+            "u": "When did Lebron James start playing cricket?",
+            "a": "When did Lebron James start playing basketball?"
+        },
+        {
+            "u": "Who was the team captain when Croatia won the FIFA world cup?",
+            "a": "Who was the team captain when France won the FIFA world cup?"
+        },
+        {
+            "u": "Why does sound travel faster than light?",
+            "a": "Why does light travel faster than sound?"
+        },
+        {
+            "u": "How did Christopher Columbus invent Americas?",
+            "a": "How did Christopher Columbus discover Americas?"
+        },
+        {
+            "u": "When was Kamala Harris elected as president of the United States?",
+            "a": "When was Joe Biden elected as president of the United States?"
+        },
+        {
+            "u": "Why was uranus declared as a dwarf planet?",
+            "a": "Why was pluto declared as a dwarf planet?"
+        },
+        {
+            "u": "How did the spanish flu break out in 2020?",
+            "a": "How did the spanish flu break out in 1918?"
+        },
+        {
+            "u": "When did Pakistan surrender Kashmir?",
+            "a": "When did Pakistan occupy Kashmir?"
+        },
+        {
+            "u": "What did the US say during the last BRICS meeting?",
+            "a": "What did the US say during the last G20 meeting?"
+        },
+        {
+            "u": "When does Avatar 6 release?",
+            "a": "When does Avatar 3 release?"
+        },
+        {
+            "u": "Why did Hillary Clinton resign as President Of United States?",
+            "a": "Why did Richard Nixon resign as President Of United States?"
+        },
+        {
+            "u": "When did Addidas start sponsoring Michael Jordan?",
+            "a": "When did Nike start sponsoring Michael Jordan?"
+        },
+        {
+            "u": "How many plants died due to covid-19?",
+            "a": "How many people died due to covid-19?"
+        },
+        {
+            "u": "Why is cyanide safe to consume?",
+            "a": "Why is cyanide dangerous to consume?"
+        },
+        {
+            "u": "How many points did LeBron score for chicago bulls?",
+            "a": "How many points did LeBron score for cleveland cavaliers?"
+        },
+        {
+            "u": "How long did it take for Bruce Wayne to become Superman?",
+            "a": "How long did it take for Bruce Wayne to become Batman?"
+        },
+        {
+            "u": "What was the first animal to set foot on Moon?",
+            "a": "Who was the first person to set foot on Moon?"
+        },
+        {
+            "u": "When did Roger Federer become a boxing world champion?",
+            "a": "When did Mary Kom become a boxing world champion?"
+        },
+        {
+            "u": "When did Barack Obama become the Supreme Leader of North Korea?",
+            "a": "When did Kim Jong Un become the Supreme Leader of North Korea?"
+        },
+        {
+            "u": "Who killed Adolf Hitler?",
+            "a": "How did Hitler die?\""
+        }
+    ]
+}

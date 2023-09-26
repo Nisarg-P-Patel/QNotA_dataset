@@ -1,0 +1,164 @@
+{
+    "ambiguous_questions": [
+        {
+            "u": "The lecturer said on Friday she would take a pop quiz. When is the pop quiz?",
+            "a": "The lecturer said that she would take a pop quiz on Friday. When is the pop quiz?"
+        },
+        {
+            "u": "The goat is ready to eat. Is the goat cooked?",
+            "a": "Everyone is ready to eat the goat. Is the goat cooked?"
+        },
+        {
+            "u": "Seb got the bath ready for his son wearing a blue cape. Who was wearing a blue cape?",
+            "a": "Seb got the bath ready for his son who was wearing a blue cape. Who was wearing a blue cape?"
+        },
+        {
+            "u": "Well, I\u2019ve definitely never had fresh juice prepared this way before. Was the juice delicious?",
+            "a": "Well, I\u2019ve definitely never had fresh juice prepared this way before. It tasted so weird. Was the juice delicious?"
+        },
+        {
+            "u": "The nearby shop owners assisted the dog bite victim. Did they help the dog?",
+            "a": "The nearby shop owners assisted the victim who was bitten by the dog. Did they help the dog?"
+        },
+        {
+            "u": "Look at the dog with one eye. Does the dog have only one eye?",
+            "a": "Look at the dog using only one of your eyes. Does the dog have only one eye?"
+        },
+        {
+            "u": "The Senator left the Community feeling frustrated. So who is frustrated by the end of the visit? the Senator or the Community?",
+            "a": "The Senator left the Community because he was feeling frustrated. So who is frustrated by the end of the visit? the Senator or the Community?"
+        },
+        {
+            "u": "Sam went for a walk with his friend in a red shirt. Who was wearing a red shirt?",
+            "a": "Sam went for a walk with his friend who was in a red shirt. Who was wearing a red shirt?"
+        },
+        {
+            "u": "I invited the person with the microphone. Who owns the microphone?",
+            "a": "I invited the person via my microphone. Who owns the microphone?"
+        },
+        {
+            "u": "I saw someone on the hill with a telescope. Where was the telescope?",
+            "a": "I saw someone on the hill via a telescope. Where was the telescope?"
+        },
+        {
+            "u": "Nick shot an elephant in his pajamas. Where was the elephant?",
+            "a": "Nick was in his pajamas when he shot an elephant. Where was the elephant?"
+        },
+        {
+            "u": "He looked professional in his chef\u2019s hat. Who's hat was it?",
+            "a": "He looked professional wearing the hat which belonged to his chef. Who's hat was it?"
+        },
+        {
+            "u": "They were both excited and happy. How many people are we talking about?",
+            "a": "They both were excited as well as happy. How many people are we talking about?"
+        },
+        {
+            "u": "Sam met a guy who works as a news reporter in France. Did Sam met him in France?",
+            "a": "Sam met a guy in Tempe who works as a news reporter in France. Did Sam met him in France?"
+        },
+        {
+            "u": "They stood watching the fireworks in the garden. Where were the fireworks?",
+            "a": "They stood watching the fireworks happening in the garden. Where were the fireworks?"
+        },
+        {
+            "u": "She prepared the girl for the exam in June. When was the exam?",
+            "a": "She prepared the girl for the exam that is due in June. When was the exam?"
+        },
+        {
+            "u": "There is a woman in the store with a car. Was the woman inside the car?",
+            "a": "There is a woman in the store who owns a car. Was the woman inside the car?"
+        },
+        {
+            "u": "John is a poor mechanic. Is John competent?",
+            "a": "John is a mechanic with little money. Is John competent?"
+        },
+        {
+            "u": "Ben is a sweet salesman. Is Ben sweet?",
+            "a": "Ben is a sweet salesman who sells books. Is Ben sweet?"
+        },
+        {
+            "u": "John drafted the contract for the client during the meeting itself and he then read it through carefully. Who read the contract carefully?",
+            "a": "John drafted the contract for the client during the meeting itself and then the client read it through carefully. Who read the contract carefully?"
+        },
+        {
+            "u": "There is a bird in a cage that can talk. Can the cage talk?",
+            "a": "There is a bird in a cage and that bird can talk. Can the cage talk?"
+        },
+        {
+            "u": "The dog liked to guard the house and the postman could not make it to the door because he was barking viciously. Who was barking viciously?",
+            "a": "The dog liked to guard the house and the postman could not make it to the door because the dog was barking viciously. Who was barking viciously?"
+        },
+        {
+            "u": "The cat chased the mouse until it stumbled and fell. What fell?",
+            "a": "The cat chased the mouse until she herself stumbled and fell. What fell?"
+        },
+        {
+            "u": "Flying planes may be dangerous. Does this mean that flying planes may be dangerous or planes may be dangerous?",
+            "a": "To fly planes may be dangerous. Does this mean that flying planes may be dangerous or planes may be dangerous?"
+        },
+        {
+            "u": "Time flies like an arrow. What does time mean in this context?",
+            "a": "Time is the name of a bird that flies like an arrow. What does time mean in this context?"
+        },
+        {
+            "u": "The child hid the toy he found under the bed. Where did he hide the toy?",
+            "a": "The child hid the toy in he found under the bed inside the cupboard. Where did he hide the toy?"
+        },
+        {
+            "u": "I saw him in the garden. Was I in the garden?",
+            "a": "I saw him when I was in the garden. Was I in the garden?"
+        },
+        {
+            "u": "I'm glad I'm a man, and so is Lola. Is Lola a man?",
+            "a": "I'm glad that both Lola and I are men. Is Lola a man?"
+        },
+        {
+            "u": "The maid of the princess who scratched herself in public was terribly humiliated. Who scratched herself? The maid or the princess?",
+            "a": "The princess who scratched herself in public was terribly humiliated. Who scratched herself? The maid or the princess?"
+        },
+        {
+            "u": "Mr. Smith telephoned his father that he did not know the truth. Who was unaware of the truth?",
+            "a": "Mr. Smith telephoned his father because his father was unaware of the truth. Who was unaware of the truth?"
+        },
+        {
+            "u": "There stood a big brick house at the foot of the hill. What was big, the house or the brick?",
+            "a": "There stood a big house made of bricks at the foot of the hill. What was big, the house or the brick?"
+        },
+        {
+            "u": "Mr. Stone was a professor and a dramatist of great fame. What was the reason for his fame?",
+            "a": "Mr. Stone was a professor and a dramatist. He was famous for his teaching. What was the reason for his fame?"
+        },
+        {
+            "u": "Ali went for a movie with his friend in a blue jacket. Who was wearing a blue jacket?",
+            "a": "Ali went for a movie with his friend who was wearing a blue jacket. Who was wearing a blue jacket?"
+        },
+        {
+            "u": "You heard it right; Bill is running. Who/What is Bill in this context?",
+            "a": "You heard it right; Bill is running to lose weight. Who/What is Bill in this context?"
+        },
+        {
+            "u": "The shooting of the hunters was quite distressing. Were the hunters shot or were they shooting?",
+            "a": "The sight of hunters who were shooting was quite distressing. Were the hunters shot or were they shooting?"
+        },
+        {
+            "u": "The fish is ready to eat. Is the fish cooked?",
+            "a": "The fish is cooked properly and is now ready to be eaten. Is the fish cooked?"
+        },
+        {
+            "u": "John is a bachelor. Does he have a first year university degree?",
+            "a": "John is pursuing a bachelors degree in fine arts. Does he have a first year university degree?"
+        },
+        {
+            "u": "Joana met boys and girls who are tall. Did she meet tall boys?",
+            "a": "Joana met boys and girls and they were are tall. Did she meet tall boys?"
+        },
+        {
+            "u": "Ata pulled out the senseless workers\u2019 strike. Is it the workers who are senseless or is it the strike?",
+            "a": "Ata pulled out the workers\u2019 strike since it was senseless. Is it the workers who are senseless or is it the strike?"
+        },
+        {
+            "u": "John visited a beautiful girls' hostel. Who were/was beautiful, the girls or the hostel?",
+            "a": "John visited a girls' hostel where all the girls were so beautiful. Who were/was beautiful, the girls or the hostel?"
+        }
+    ]
+}
